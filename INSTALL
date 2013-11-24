@@ -1,0 +1,9 @@
+Building lovercoin
+
+See doc/readme-qt.rst for instructions on building lovercoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of lovercoin.
+
+See doc/build-*.txt for instructions on building lovercoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of lovercoin.
