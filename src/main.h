@@ -118,7 +118,6 @@ bool GetTransaction(const uint256 &hash, CTransaction &tx, uint256 &hashBlock);
 
 
 
-int static generateMTRandom(unsigned int s, int range);
 
 
 
